@@ -27,7 +27,7 @@
 ## 参赛信息
 - [项目代码1](https://github.com/etboodXJ/DeGameTropicalIsLand)
 
-- [PPT]()
+- [PPT](https://github.com/etboodXJ/DeGameTropicalIsLand/blob/main/SparkSpace.pptx)
 - [在线地址](https://sparkspace.wal.app)
 
 ## 其他附加说明
