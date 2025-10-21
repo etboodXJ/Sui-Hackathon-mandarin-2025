@@ -26,7 +26,7 @@
 
 ## 参赛信息
 - [项目代码1](https://github.com/etboodXJ/DeGameTropicalIsLand)
-- [测试网合约发布地址](https://testnet.suivision.xyz/package/0xcafba38c8bf232964ca2849d02a97729c054b8a6dc4c7f43298dc4ec6a76c45f)
+- [测试网合约发布地址](https://testnet.suivision.xyz/package/0x9567b360fac52796a737b38e901d62155d62dec1e82fe0c19ee56e70de417d01)
 
 - [PPT](https://github.com/etboodXJ/DeGameTropicalIsLand/blob/main/SparkSpace.pptx)
 - [在线地址](https://sparkspace.wal.app)
